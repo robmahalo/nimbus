@@ -1,0 +1,19 @@
+button {
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: orange;
+    padding: 15px 30px;
+    color: white;
+    width: 100px;
+}
+
+.count {
+    font-size: 50px;
+    padding: 15px 30px;
+}
+
+.reset {
+    background-color: red;
+    color: white;
+    width: 200px;
+}
